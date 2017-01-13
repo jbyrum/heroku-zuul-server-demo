@@ -3,5 +3,5 @@
   "description": "Zuul Server demo project.",
   "website": "https://github.com/kissaten/heroku-zuul-server-demo",
   "success_url": "/index.html",
-  "stack": "herkou-16"
+  "stack": "heroku-16"
 }
